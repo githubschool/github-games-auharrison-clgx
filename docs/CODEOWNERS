@@ -2,3 +2,4 @@
 *.rb @ruby-team
 /tests/ @qa-team
 /tests/front-end @front-end-team
+*.md @ericalloyd

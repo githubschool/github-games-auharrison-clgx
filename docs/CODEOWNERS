@@ -1,0 +1,4 @@
+*.sql @vbasvabovina
+*.rb @ruby-team
+/tests/ @qa-team
+/tests/front-end @front-end-team
